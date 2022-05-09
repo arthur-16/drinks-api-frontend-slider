@@ -1,0 +1,30 @@
+body {
+  margin: 5px;
+  padding: 10px;
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/abfbb793-2801-49f3-b9fd-90708035c1f0/d7zcwt3-340f8c02-67bc-4d9e-82f0-5e79c9e0f8b4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FiZmJiNzkzLTI4MDEtNDlmMy1iOWZkLTkwNzA4MDM1YzFmMFwvZDd6Y3d0My0zNDBmOGMwMi02N2JjLTRkOWUtODJmMC01ZTc5YzllMGY4YjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AjSfHyGX3nVyjRPYnl6TiBxYFfLWWFnMWBT4qejwb94");
+}
+
+img {
+  max-width: 30%;
+  max-height: 20%;
+  display: flex;
+  padding: 5px;
+  margin: auto;
+  background-color: transparent;
+}
+
+.button-div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  color: tan
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
